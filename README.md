@@ -1,4 +1,4 @@
 # filehost
 
 
-<a href="ins/">sa</a>
+<a href="samsung-galaxy-tab-a9(sm-x115)-firmware/">sa</a>
